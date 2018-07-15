@@ -3,8 +3,6 @@
 
 [cn.aw98.ws](https://cn.aw98.ws)
 
-[cn.ax98.ws](https://cn.ax98.ws)
-
 
 国产浏览器(如 UC、360、QQ、百度) 不定期可能会屏蔽网站，建议使用谷歌浏览器观看 
 
